@@ -3,8 +3,8 @@
 Upgrades the existing print surface to include a larger, flatter bed that makes the entire print volume available.
 
 ## Bill of Materials
-- 1x [235mm^2 Borosilicate Glass Bed](https://www.amazon.com/gp/product/B07JKGNB6W)
-- 1x [200mm^2 1mm Silicone Thermal Pad](https://www.amazon.com/gp/product/B08YJNDLGM)
+- 1x [235mm² Borosilicate Glass Bed](https://www.amazon.com/gp/product/B07JKGNB6W)
+- 1x [200mm² 1mm Silicone Thermal Pad](https://www.amazon.com/gp/product/B08YJNDLGM)
 - 4x M3 25mm Countersunk Machine Screw
 - 4x [Glass Bed Clips](https://www.amazon.com/gp/product/B08W8NXMJC)
 - 4x M3 Locknuts
