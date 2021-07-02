@@ -28,16 +28,8 @@ Note that several of the links are to parts assortments, and a single assortment
 | 14 Gauge Spade Terminal | 2 | Amazon
 | 14 Gauge Wire | 2 meters | Amazon
 
-## Quiet Meanwell LRS-350-12 Power Supply
-| Item | Quantity | Link | Notes |
-| ---- | -------- | ---- | ----- |
-| Meanwell LRS-350-12 Power Supply | 1 | [Mouser](https://www.mouser.com/ProductDetail/709-LRS350-12) |
-| Noctua NF-A9x14 PWM | 1 | [Amazon](https://www.amazon.com/gp/product/B009NQM7V2/) | Alternatively, any 92x14mm fan will work here, I just like the performance and quietness of the Noctua. |
-| 4 Pin to 2 Pin Fan Adapter | 1 | [Amazon](https://smile.amazon.com/s?k=4+pin+to+2+pin+fan+adapter) | The Noctua NF-A4x10 FLX listed above should come with a 3 pin to 2 pin adapter, which can be cut to allow a 4 pin header to connect. Note that I had to swap the order of the pins in the 2 pin end of the adapter. Alternatively you can purchase a new one.
-| M4 6mm Socket Cap Machine Screws | 2 | Amazon | You can salvage these (non socket cap) from the printer's Y axis bearing block during the upgrade.
-| M4 Washers | 2 | [Amazon](https://www.amazon.com/gp/product/B07CG9J4NC)
-
 ## Additional Recommended Upgrades
 - [Borosilicate Glass Bed](upgrades/borosilicate_glass_bed.md)
+- [Quiet Meanwell LRS-350-12 Power Supply](upgrades/quiet_meanwell_lrs_350_psu.md)
 - [Z Braces](https://www.thingiverse.com/thing:921948)
 - [Bed Levelling Thumbwheels](https://www.thingiverse.com/thing:1917422)
