@@ -30,6 +30,6 @@ Note that several of the links are to parts assortments, and a single assortment
 
 ## Additional Recommended Upgrades
 - [Borosilicate Glass Bed](upgrades/borosilicate_glass_bed.md)
-- [Quiet Meanwell LRS-350-12 Power Supply](upgrades/quiet_meanwell_lrs_350_psu.md)
+- [Quiet Meanwell LRS-350-12 Power Supply](upgrades/quiet_meanwell_lrs_350_psu/quiet_meanwell_lrs_350_psu.md)
 - [Z Braces](https://www.thingiverse.com/thing:921948)
 - [Bed Levelling Thumbwheels](https://www.thingiverse.com/thing:1917422)
