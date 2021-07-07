@@ -29,8 +29,9 @@ Note that several of the links are to parts assortments, and a single assortment
 | 14 Gauge Wire                         | 2 meters  | Amazon                                                                                                                        |
 | 92mm Fan Filter Mesh                  | 1         | [Amazon](https://smile.amazon.com/ThreeBulls-Cooler-Filter-Dustproof-Computer/dp/B01N952K7P)                                  | These are 120mm, but they're easier to find, useful elsewhere, and easy to cut to shape.
 
-## Additional Recommended Upgrades
+## Additional Recommended Upgrades & Maintenance
 - [Borosilicate Glass Bed](upgrades/borosilicate_glass_bed.md)
 - [Quiet Meanwell LRS-350-12 Power Supply](upgrades/quiet_meanwell_lrs_350_psu/quiet_meanwell_lrs_350_psu.md)
 - [Z Braces](https://www.thingiverse.com/thing:921948)
 - [Bed Levelling Thumbwheels](https://www.thingiverse.com/thing:1917422)
+- [GT2 5mm Idler Pulleys](https://smile.amazon.com/gp/product/B01H3F8LUU)
