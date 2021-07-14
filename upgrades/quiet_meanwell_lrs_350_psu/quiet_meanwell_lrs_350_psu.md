@@ -14,6 +14,7 @@ Upgrades the default 12v power supply to a Meanwell LRS-350-12, with a larger, q
 | 92mm Fan Filter Mesh              | 1 | [Amazon](https://smile.amazon.com/ThreeBulls-Cooler-Filter-Dustproof-Computer/dp/B01N952K7P)  | These are 120mm, but they're easier to find, useful elsewhere, and easy to cut to shape.
 
 ## Printables
+All items can be printed with a lower temperature filament, like PLA.
 | STL | Quantity | Notes |
 | --- | -------- | ----- |
 | duplicator i3 duet lrs 350 psu 92mm fan case.stl | 1 | This is the new outer case for the power supply, with a mounting solution for a 92x14mm fan.
