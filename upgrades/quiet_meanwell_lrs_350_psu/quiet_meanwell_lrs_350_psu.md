@@ -1,6 +1,6 @@
 # Quiet Meanwell LRS-350-12 Power Supply
 
-Upgrades the default 12v power supply to a Meanwell LRS-350-12, with a larger, quieter fan. Note that this assembly uses the same 
+Upgrades the default 12v power supply to a Meanwell LRS-350-12, with a larger, quieter fan. Note that this assembly uses the same chassis mount as the plain Meanwell LRS-350 power supply mod.
 
 ## Bill of Materials
 | Item | Quantity | Link | Notes |
