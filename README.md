@@ -3,9 +3,6 @@ Complete Duet 3 Mini 5+ based overhaul for the Duplicator i3 family of printers
 
 Note that this repository is a work in progress, so some parts may not be compatible with the printer yet.
 
-## Required Tools
-- 
-
 ## Core Bill of Materials
 Note that several of the links are to parts assortments, and a single assortment should cover all of the parts of that type. Obviously, you can also source parts elsewhere if desired, the linked ones are just a convenient option.
 
@@ -28,6 +25,16 @@ Note that several of the links are to parts assortments, and a single assortment
 | 14 Gauge Spade Terminal               | 2         | Amazon                                                                                                                        |
 | 14 Gauge Wire                         | 2 meters  | Amazon                                                                                                                        |
 | 92mm Fan Filter Mesh                  | 1         | [Amazon](https://smile.amazon.com/ThreeBulls-Cooler-Filter-Dustproof-Computer/dp/B01N952K7P)                                  | These are 120mm, but they're easier to find, useful elsewhere, and easy to cut to shape.
+
+## Required Tools
+| Tool | Link | Notes |
+| ---- | ---- | ----- |
+| Terminal Crimper          | [Amazon](https://smile.amazon.com/s?k=molex+jst+crimper)                      | Make sure it can do 26 gauge thru 14 gauge terminals
+| Flush Cutter              | [Amazon](https://smile.amazon.com/Hakko-CHP-170-Micro-Cutter/dp/B00FZPDG1K/)  |
+| Wire Stripper             | [Amazon](https://smile.amazon.com/s?k=wire+stripper)                          |
+| Drill                     | 
+| 1/8 Twist Drill Bit       | [Amazon](https://smile.amazon.com/s?k=1%2F8+twist+drill)                      | This is for cleaning up a few 3D printed holes, so low quality is fine
+| Heat Gun (or a lighter)   | [Amazon](https://smile.amazon.com/s?k=heat+gun)                               | This is for heating up heatshrink tubing, so a lighter is totally fine
 
 ## Additional Recommended Upgrades & Maintenance
 - [Borosilicate Glass Bed](upgrades/borosilicate_glass_bed.md)
