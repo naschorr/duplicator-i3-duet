@@ -22,19 +22,20 @@ Note that several of the links are to parts assortments, and a single assortment
 | M3 Hex Nuts                           | Many      | Amazon                                                                                                                        |
 | M4 12mm Socket Cap Machine Screws     | 4         | Amazon                                                                                                                        | You can salvage these from the printer's X carriage bearing block (I could be wrong, as I had upgraded to a Prusa i3 MK2 style X axis/extruder assembly years before this)
 | M4 Washers                            | 4         | [Amazon](https://www.amazon.com/gp/product/B07CG9J4NC)                                                                        |
-| 14 Gauge Spade Terminal               | 2         | Amazon                                                                                                                        |
-| 14 Gauge Wire                         | 2 meters  | Amazon                                                                                                                        |
+| 12 Gauge Wire                         | 2 meters  | [Mouser](https://www.mouser.com/ProductDetail/TE-Connectivity-Raychem/44A0111-12-0CS448?qs=pLY5GE0xrmJhn6WhPS46fA%3D%3D)      | 12 gauge is a bit overkill, but safety is worth it
+| 12 Gauge Spade Terminal               | 2         | [Mouser](https://www.mouser.com/ProductDetail/Molex/19131-0004?qs=sLlYHtrnUedrBRMIT5hiJw%3D%3D)                               | These might need some slight filing down to fit into the terminal block
 | 92mm Fan Filter Mesh                  | 1         | [Amazon](https://smile.amazon.com/ThreeBulls-Cooler-Filter-Dustproof-Computer/dp/B01N952K7P)                                  | These are 120mm, but they're easier to find, useful elsewhere, and easy to cut to shape.
 
 ## Required Tools
 | Tool | Link | Notes |
 | ---- | ---- | ----- |
-| Terminal Crimper          | [Amazon](https://smile.amazon.com/s?k=molex+jst+crimper)                      | Make sure it can do 26 gauge thru 14 gauge terminals
+| Terminal Crimper          | [Amazon](https://smile.amazon.com/s?k=molex+jst+crimper)                      | Make sure it can do 26 gauge thru 12 gauge terminals
 | Flush Cutter              | [Amazon](https://smile.amazon.com/Hakko-CHP-170-Micro-Cutter/dp/B00FZPDG1K/)  |
 | Wire Stripper             | [Amazon](https://smile.amazon.com/s?k=wire+stripper)                          |
 | Drill                     | 
 | 1/8 Twist Drill Bit       | [Amazon](https://smile.amazon.com/s?k=1%2F8+twist+drill)                      | This is for cleaning up a few 3D printed holes, so low quality is fine
 | Heat Gun (or a lighter)   | [Amazon](https://smile.amazon.com/s?k=heat+gun)                               | This is for heating up heatshrink tubing, so a lighter is totally fine
+| #2 Phillips Screw Driver  | 
 
 ## Additional Recommended Upgrades & Maintenance
 - [Borosilicate Glass Bed](upgrades/borosilicate_glass_bed.md)
