@@ -13,6 +13,12 @@ Upgrades the default 12v power supply to a Meanwell LRS-350-12, with a larger, q
 | M4 Washers                        | 2 | [Amazon](https://smile.amazon.com/gp/product/B07CG9J4NC)                                        |
 | 92mm Fan Filter Mesh              | 1 | [Amazon](https://smile.amazon.com/ThreeBulls-Cooler-Filter-Dustproof-Computer/dp/B01N952K7P)  | These are 120mm, but they're easier to find, useful elsewhere, and easy to cut to shape.
 
+## Required Tools
+| Tool | Link | Notes |
+| ---- | ---- | ----- |
+| #1 Phillips Screw Driver  |
+| #2 Phillips Screw Driver  | 
+
 ## Printables
 All items can be printed with a lower temperature filament, like PLA.
 | STL | Quantity | Notes |
