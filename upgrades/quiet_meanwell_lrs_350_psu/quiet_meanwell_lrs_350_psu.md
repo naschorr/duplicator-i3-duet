@@ -16,8 +16,7 @@ Upgrades the default 12v power supply to a Meanwell LRS-350-12, with a larger, q
 ## Required Tools
 | Tool | Link | Notes |
 | ---- | ---- | ----- |
-| #1 Phillips Screw Driver  |
-| #2 Phillips Screw Driver  | 
+| Screw Driver Set  | [Amazon](https://smile.amazon.com/Syntus-Precision-Screwdriver-Electronics-Cellphone/dp/B071PB4RPV) | Must contain a variety of Hex and Phillips head drivers
 
 ## Printables
 All items can be printed with a lower temperature filament, like PLA.
