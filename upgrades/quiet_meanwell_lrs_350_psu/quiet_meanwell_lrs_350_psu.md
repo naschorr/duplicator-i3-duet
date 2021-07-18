@@ -30,4 +30,4 @@ All items can be printed with a lower temperature filament, like PLA.
 ## Assembly
 Here's what the almost-completed 92mm fan case assembly should look like, with the fan, filter mesh (not seen), and fan clips installed into the fan case. All that's left to do is to screw the newly printed case and the original metal case together with the four original screws.
 
-<p align="center"><img src="https://raw.githubusercontent.com/naschorr/duplicator-i3-duet/dev/upgrades/quiet_meanwell_lrs_350_psu/images/assembly_0.jpg"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/naschorr/duplicator-i3-duet/main/upgrades/quiet_meanwell_lrs_350_psu/images/assembly_0.jpg"/></p>
