@@ -37,9 +37,68 @@ Note that several of the links are to parts assortments, and a single assortment
 | Heat Gun (or a lighter)   | [Amazon](https://smile.amazon.com/s?k=heat+gun)                                                       | This is for heating up heatshrink tubing, so a lighter is totally fine
 | Screw Driver Set          | [Amazon](https://smile.amazon.com/Syntus-Precision-Screwdriver-Electronics-Cellphone/dp/B071PB4RPV)   | Must contain a variety of Hex head drivers
 
+## Printables
+### Duet Case and Mount Assembly
+| STL | Quantity | Notes |
+| --- | -------- | ----- |
+| duplicator i3 duet controller case chassis mount.stl      | 1 | 
+| duplicator i3 duet controller case back panel.stl         | 1 | 
+| duplicator i3 duet controller case sides.stl              | 1 | 
+| duplicator i3 duet controller case cable lock.stl         | 3 | 
+| duplicator i3 duet controller case fan rack.stl           | 1 | 
+| duplicator i3 duet controller case left fan bracket.stl   | 1 | 
+| duplicator i3 duet controller case right fan bracket.stl  | 1 | 
+| duplicator i3 duet controller case front panel.stl        | 1 | 
+
+### Extruder Assembly
+All STLs only need to be printed once.
+| STL | Notes |
+| --- | ----- |
+| duplicator i3 duet extruder body bltouch mount.stl            | This is essentially just a normal Prusa i3 MK2 extruder body, but with a BLTouch mount grafted onto it
+| duplicator i3 duet extruder body 30mm to 40mm fan adapter.stl | This will adapt the 30mm fan attachment point to allow a 40mm fan to be used instead
+| duplicator i3 duet extruder x carriage ptfe clamp top.stl     | 
+| duplicator i3 duet extruder x carriage ptfe clamp bottom.stl  | 
+
+### X-Axis Motor Assembly
+All STLs only need to be printed once.
+| STL | Notes |
+| --- | ----- |
+| duplicator i3 duet x motor ptfe inner clamp.stl   | 
+| duplicator i3 duet x motor ptfe outer clamp.stl   | 
+
+### Y-Axis Carriage Assembly
+All STLs only need to be printed once.
+| STL | Notes |
+| --- | ----- |
+| duplicator i3 duet y carriage bearing block ptfe angled clamp.stl | 
+| duplicator i3 duet y carriage bearing block ptfe lower clamp.stl  | 
+| duplicator i3 duet y carriage bearing block ptfe upper clamp.stl  | 
+
+### Power Supply Dock and Mount Assembly
+There's three different ways to approach the power supply question:
+- The default Maker Select power supply
+- Upgrade to a Meanwell LRS-350-12 power supply
+- Purchase a Meanwell LRS-350-12 power supply, and upgrade it with a much larger fan to be even quieter (I absolutely recommend this options!)
+
+#### Default Maker Select Power Supply
+All STLs only need to be printed once.
+| STL | Notes |
+| --- | ----- |
+| duplicator i3 duet stock psu chassis mount.stl    |
+| duplicator i3 duet stock psu dock.stl             |
+
+#### Normal Meanwell LRS-350-12 Power Supply
+All STLs only need to be printed once.
+| STL | Notes |
+| --- | ----- |
+| duplicator i3 duet lrs 350 psu chassis mount.stl  |
+| duplicator i3 duet lrs 350 psu dock.stl           |
+
+#### Quiet Meanwell LRS-350-12 Power Supply
+Take a look at the separate upgrade page [here](upgrades/quiet_meanwell_lrs_350_psu/quiet_meanwell_lrs_350_psu.md) that goes into greater detail.
+
 ## Additional Recommended Upgrades & Maintenance
 - [Borosilicate Glass Bed](upgrades/borosilicate_glass_bed.md)
-- [Quiet Meanwell LRS-350-12 Power Supply](upgrades/quiet_meanwell_lrs_350_psu/quiet_meanwell_lrs_350_psu.md)
 - [Z Braces](https://www.thingiverse.com/thing:921948)
 - [Bed Levelling Thumbwheels](https://www.thingiverse.com/thing:1917422)
 - [GT2 5mm Idler Pulleys](https://smile.amazon.com/gp/product/B01H3F8LUU)
