@@ -12,7 +12,7 @@ Upgrades the default 12v power supply to a Meanwell LRS-350-12, with a larger, q
 | M4 6mm Socket Cap Machine Screws  | 2 | Amazon                                                                                            | You can salvage these (non socket cap) from the printer's Y axis bearing block during the upgrade.
 | M4 Washers                        | 2 | [Amazon](https://smile.amazon.com/gp/product/B07CG9J4NC)                                          |
 | 92mm Fan Filter Mesh              | 1 | [Amazon](https://smile.amazon.com/ThreeBulls-Cooler-Filter-Dustproof-Computer/dp/B01N952K7P)      | These are 120mm, but they're easier to find, useful elsewhere, and easy to cut to shape.
-| Zip tie                          | 1 | [Amazon](https://smile.amazon.com/AmazonBasics-Multi-Purpose-Cable-Ties-200-Piece/dp/B087MKMSDY)  |
+| Zip tie                           | 1 | [Amazon](https://smile.amazon.com/AmazonBasics-Multi-Purpose-Cable-Ties-200-Piece/dp/B087MKMSDY)  |
 
 ## Required Tools
 | Tool | Link | Notes |
