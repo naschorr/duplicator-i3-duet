@@ -26,3 +26,8 @@ All items can be printed with a lower temperature filament, like PLA.
 | duplicator i3 duet lrs 350 psu 92mm fan case.stl | 1 | This is the new outer case for the power supply, with a mounting solution for a 92x14mm fan.
 | duplicator i3 duet lrs 350 psu 92mm fan dock.stl | 1 | This is the revised dock that the power supply (with case) slides into
 | duplicator i3 duet lrs 350 psu 92mm fan clip.stl | 4 | These are the clips that screw into the outer case which hold the fan in place
+
+## Assembly
+Here's what the almost-completed 92mm fan case assembly should look like, with the fan, filter mesh (not seen), and fan clips installed into the fan case. All that's left to do is to screw the newly printed case and the original metal case together with the four original screws.
+
+<p align="center"><img src="https://raw.githubusercontent.com/naschorr/duplicator-i3-duet/dev/upgrades/quiet_meanwell_lrs_350_psu/assembly_0.jpg"/></p>
