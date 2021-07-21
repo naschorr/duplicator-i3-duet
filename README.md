@@ -51,7 +51,7 @@ Note that several of the links are to parts assortments, and a single assortment
 | duplicator i3 duet controller case front panel.stl        | 1 | 
 
 ### Extruder Assembly
-All STLs only need to be printed once.
+All STLs only need to be printed once. The extruder body STLs should be printed out of a filament that's more tolerant of higher temperatures, like PETG.
 | STL | Notes |
 | --- | ----- |
 | duplicator i3 duet extruder body bltouch mount.stl            | This is essentially just a normal Prusa i3 MK2 extruder body, but with a BLTouch mount grafted onto it
@@ -67,7 +67,7 @@ All STLs only need to be printed once.
 | duplicator i3 duet x motor ptfe outer clamp.stl   | 
 
 ### Y-Axis Carriage Assembly
-All STLs only need to be printed once.
+All STLs only need to be printed once. These Y carriage STLs should be printed out of a filament that's more tolerant of higher temperatures, like PETG.
 | STL | Notes |
 | --- | ----- |
 | duplicator i3 duet y carriage bearing block ptfe angled clamp.stl | 
@@ -78,7 +78,7 @@ All STLs only need to be printed once.
 There's three different ways to approach the power supply question:
 - The default Maker Select power supply
 - Upgrade to a Meanwell LRS-350-12 power supply
-- Purchase a Meanwell LRS-350-12 power supply, and upgrade it with a much larger fan to be even quieter (I absolutely recommend this options!)
+- Purchase a Meanwell LRS-350-12 power supply, and upgrade it with a much larger fan to be even quieter (I absolutely recommend this option!)
 
 #### Default Maker Select Power Supply
 All STLs only need to be printed once.
