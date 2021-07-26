@@ -9,7 +9,9 @@ All of these files should be printed in a thermally resistant filament, like PET
 | duplicator i3 duet extruder body 30mm to 40mm fan adapter.stl | This will adapt the 30mm fan attachment point to allow a 40mm fan to be used instead
 | duplicator i3 duet extruder x carriage ptfe clamp top.stl     | 
 | duplicator i3 duet extruder x carriage ptfe clamp bottom.stl  | 
+| duplicator i3 duet extruder idler shaft.stl                   | WIP
 | prusa i3 mk2 extruder cover.stl                               | This is literally just the official part from Prusa, included here for convenience
+| prusa i3 mk2 extruder idler.stl                               | This is literally just the official part from Prusa, included here for convenience
 | prusa i3 mk2 x carriage.stl                                   | This is literally just the official part from Prusa, included here for convenience
 
 ## Required Tools
