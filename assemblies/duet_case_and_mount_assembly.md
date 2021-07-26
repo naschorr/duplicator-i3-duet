@@ -22,7 +22,7 @@ All of these files can be printed in any filament type you'd like.
 | Wire Stripper             | [Amazon](https://smile.amazon.com/s?k=wire+stripper)                                                  |
 | Drill                     | 
 | 1/8 Twist Drill Bit       | [Amazon](https://smile.amazon.com/s?k=1%2F8+twist+drill)                                              | This is for cleaning up a few 3D printed holes, so low quality is fine
-| Screw Driver Set          | [Amazon](https://smile.amazon.com/Syntus-Precision-Screwdriver-Electronics-Cellphone/dp/B071PB4RPV)   | Must contain a variety of Hex head drivers
+| Screw Driver Set          | [Amazon](https://smile.amazon.com/Syntus-Precision-Screwdriver-Electronics-Cellphone/dp/B071PB4RPV)   | Must contain a variety of Hex and Philips head drivers
 
 ## Bill of Materials
 | Item | Quantity | Link | Notes |
