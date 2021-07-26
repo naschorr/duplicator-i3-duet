@@ -20,7 +20,7 @@ All of these files should be printed in a thermally resistant filament, like PET
 | Terminal Crimper          | [Amazon](https://smile.amazon.com/s?k=molex+jst+crimper)                                              | Make sure it can do 26 gauge thru 12 gauge terminals
 | Flush Cutter              | [Amazon](https://smile.amazon.com/Hakko-CHP-170-Micro-Cutter/dp/B00FZPDG1K/)                          |
 | Wire Stripper             | [Amazon](https://smile.amazon.com/s?k=wire+stripper)                                                  |
-| Power Drill                     | 
+| Power Drill               | 
 | 1/8 Twist Drill Bit       | [Amazon](https://smile.amazon.com/s?k=1%2F8+twist+drill)                                              | This is for cleaning up a few 3D printed holes, so low quality is fine
 | Heat Gun (or a lighter)   | [Amazon](https://smile.amazon.com/s?k=heat+gun)   
 | Screw Driver Set          | [Amazon](https://smile.amazon.com/Syntus-Precision-Screwdriver-Electronics-Cellphone/dp/B071PB4RPV)   | Must contain a variety of Hex head drivers
@@ -52,7 +52,7 @@ Note that several of the links are to parts assortments, and a single assortment
 | M3 Hex Nuts                           | 4         | Amazon
 | M3 Square Nuts                        | 4         | Amazon
 | M5 Washers                            | 2         | Amazon                                                                                                                        | Honestly, these can be printed, I'll add an STL eventually for this.
-| Zip ties (4 inch)                     | 8+        | [Amazon](https://smile.amazon.com/gp/product/B01M06HTVH)
+| Zip ties                              | 8+        | [Amazon](https://smile.amazon.com/gp/product/B01M06HTVH)                                                                      | 4 inch zip ties are fine here.
 
 ## Assembly
 You can follow the [official Prusa i3 MK2 extruder assembly guide](https://help.prusa3d.com/en/guide/5-extruder-assembly_82960) for this one. Almost all extruder parts for this upgrade are derived from Prusa's designs.
