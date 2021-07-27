@@ -45,7 +45,7 @@ Note that several of the links are to parts assortments, and a single assortment
 | ---- | -------- | ---- | ----- |
 | 12 Gauge Wire                         | 2 meters  | [Mouser](https://www.mouser.com/ProductDetail/TE-Connectivity-Raychem/44A0111-12-0CS448?qs=pLY5GE0xrmJhn6WhPS46fA%3D%3D)      | 12 gauge is a bit overkill, but safety is worth it
 | 12 Gauge Spade Terminal               | 2         | [Mouser](https://www.mouser.com/ProductDetail/Molex/19131-0004?qs=sLlYHtrnUedrBRMIT5hiJw%3D%3D)                               | These might need some slight filing down to fit into the terminal block
-| M3 6mm Socket Cap Machine Screws      | Many      | Amazon                                                                                                                        | If you've done the Z brace upgrade, then you likely have enough screws left over from that.
-| M3 10mm Socket Cap Machine Screws     | Many      | Amazon                                                                                                                        |
-| M3 Washers                            | Many      | [Amazon](https://smile.amazon.com/gp/product/B07CG9J4NC)                                                                      |
-| M3 Hex Nuts                           | Many      | Amazon                                                                                                                        |
+| M3 6mm Socket Cap Machine Screws      | 2         | Amazon                                                                                                                        | If you've done the Z brace upgrade, then you likely have enough screws left over from that.
+| M3 10mm Socket Cap Machine Screws     | 6         | Amazon                                                                                                                        |
+| M3 Washers                            | 6         | [Amazon](https://smile.amazon.com/gp/product/B07CG9J4NC)                                                                      |
+| M3 Hex Nuts                           | 6         | Amazon                                                                                                                        |

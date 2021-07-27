@@ -42,15 +42,14 @@ Note that several of the links are to parts assortments, and a single assortment
 | 22 Gauge Wire                         | 2 meters  | Mouser                                                                                                                        | This is for the extruder heater itself.
 | 625 Bearing                           | 1         | Amazon
 | Extruder Spring                       | 2         | DIY                                                                                                                           | I ended up pulling the springs out of a couple clicky pens, and stretching them out a bit. That said, these can probably be found on ebay or aliexpress with enough persistence.
-| M3 6mm Socket Cap Machine Screws      | Many      | Amazon                                                                                                                        | If you've done the Z brace upgrade, then you likely have enough screws left over from that.
-| M3 10mm Socket Cap Machine Screws     | Many      | Amazon
+| M3 6mm Socket Cap Machine Screws      | 6         | Amazon                                                                                                                        | If you've done the Z brace upgrade, then you likely have enough screws left over from that.
 | M3 18mm Socket Cap Machine Screws     | 2         | Amazon
 | M3 20mm Socket Cap Machine Screws     | 3         | Amazon
 | M3 25mm Socket Cap Machine Screws     | 1         | Amazon                                                                                                                        | I believe this one (used in step 7 of Prusa's assembly guide) can be replaced with a M3 30mm machine screw and another M3 washer.
 | M3 30mm Socket Cap Machine Screws     | 3         | Amazon
-| M3 40mm Socket Cap Machine Screws     | 3         | Amazon
-| M3 Washers                            | 4         | [Amazon](https://smile.amazon.com/gp/product/B07CG9J4NC)
-| M3 Hex Nuts                           | 4         | Amazon
+| M3 40mm Socket Cap Machine Screws     | 4         | Amazon
+| M3 Washers                            | 10        | [Amazon](https://smile.amazon.com/gp/product/B07CG9J4NC)
+| M3 Hex Nuts                           | 10        | Amazon
 | M3 Square Nuts                        | 4         | Amazon
 | Zip ties                              | 8+        | [Amazon](https://smile.amazon.com/gp/product/B01M06HTVH)                                                                      | 4 inch zip ties are fine here.
 
