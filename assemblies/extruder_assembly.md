@@ -34,7 +34,7 @@ Note that several of the links are to parts assortments, and a single assortment
 | Extruder Drive Gear                   | 1         | [Filastruder](https://www.filastruder.com/collections/e3d-spare-parts-and-accessories/products/hobb-goblin-5mm-id-drive-gear)
 | BLTouch (v3.1 or greater)             | 1         | [Filastruder](https://www.filastruder.com/collections/electronics/products/bltouch-automatic-bed-leveling-probe)
 | BLTouch Extension Cable               | 1 meter   | [Filastruder](https://www.filastruder.com/products/bltouch-1000mm-cable)
-| Noctua NF-A4x10 FLX                   | 1         | [Amazon](https://www.amazon.com/gp/product/B009NQLT0M/)                                                                       | Alternatively, any 40x10mm fan will work here, I just like the performance and quietness of the Noctua. |
+| Noctua NF-A4x10 FLX                   | 1         | [Amazon](https://smile.amazon.com/gp/product/B009NQLT0M/)                                                                     | Alternatively, any 40x10mm fan will work here, I just like the performance and quietness of the Noctua. |
 | Sunon 5015 Blower Fan                 | 1         | [Mouser](https://www.mouser.com/ProductDetail/369-MF50151VXB00UA99)                                                           |
 | PTFE Tubing 2mm ID                    | 750mm     | [Filastruder](https://www.filastruder.com/collections/e3d-spare-parts-and-accessories/products/ptfe-tubing?variant=485332121) | This is an approximation, purchase all PTFE tubing in a single length and cut to size.
 | 26 Gauge Wire                         | 7 meters  | Mouser                                                                                                                        | This is for the heatsink fan, the part cooler blower, and the extruder's thermistor
@@ -48,7 +48,7 @@ Note that several of the links are to parts assortments, and a single assortment
 | M3 25mm Socket Cap Machine Screws     | 1         | Amazon                                                                                                                        | I believe this one (used in step 7 of Prusa's assembly guide) can be replaced with a M3 30mm machine screw and another M3 washer.
 | M3 30mm Socket Cap Machine Screws     | 3         | Amazon
 | M3 40mm Socket Cap Machine Screws     | 3         | Amazon
-| M3 Washers                            | 4         | [Amazon](https://www.amazon.com/gp/product/B07CG9J4NC)
+| M3 Washers                            | 4         | [Amazon](https://smile.amazon.com/gp/product/B07CG9J4NC)
 | M3 Hex Nuts                           | 4         | Amazon
 | M3 Square Nuts                        | 4         | Amazon
 | M5 Washers                            | 2         | Amazon                                                                                                                        | Honestly, these can be printed, I'll add an STL eventually for this.

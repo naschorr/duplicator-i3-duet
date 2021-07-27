@@ -20,5 +20,5 @@ Note that several of the links are to parts assortments, and a single assortment
 | ---- | -------- | ---- | ----- |
 | PTFE Tubing 2mm ID                    | 500 mm    | [Filastruder](https://www.filastruder.com/collections/e3d-spare-parts-and-accessories/products/ptfe-tubing?variant=485332121) | This is an approximation, purchase all PTFE tubing in a single length and cut to size.
 | M3 6mm Socket Cap Machine Screws      | Many      | Amazon                                                                                                                        | If you've done the Z brace upgrade, then you likely have enough screws left over from that.
-| M3 Washers                            | Many      | [Amazon](https://www.amazon.com/gp/product/B07CG9J4NC)                                                                        |
+| M3 Washers                            | Many      | [Amazon](https://smile.amazon.com/gp/product/B07CG9J4NC)                                                                      |
 | M3 Hex Nuts                           | Many      | Amazon                                                                                                

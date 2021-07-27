@@ -47,5 +47,5 @@ Note that several of the links are to parts assortments, and a single assortment
 | 12 Gauge Spade Terminal               | 2         | [Mouser](https://www.mouser.com/ProductDetail/Molex/19131-0004?qs=sLlYHtrnUedrBRMIT5hiJw%3D%3D)                               | These might need some slight filing down to fit into the terminal block
 | M3 6mm Socket Cap Machine Screws      | Many      | Amazon                                                                                                                        | If you've done the Z brace upgrade, then you likely have enough screws left over from that.
 | M3 10mm Socket Cap Machine Screws     | Many      | Amazon                                                                                                                        |
-| M3 Washers                            | Many      | [Amazon](https://www.amazon.com/gp/product/B07CG9J4NC)                                                                        |
+| M3 Washers                            | Many      | [Amazon](https://smile.amazon.com/gp/product/B07CG9J4NC)                                                                      |
 | M3 Hex Nuts                           | Many      | Amazon                                                                                                                        |
