@@ -55,3 +55,7 @@ Note that several of the links are to parts assortments, and a single assortment
 
 ## Assembly
 You can follow the [official Prusa i3 MK2 extruder assembly guide](https://help.prusa3d.com/en/guide/5-extruder-assembly_82960) for this one. Almost all extruder parts for this upgrade are derived from Prusa's designs.
+
+## Images
+<p align="center"><img style="width: 200px" src="https://raw.githubusercontent.com/naschorr/duplicator-i3-duet/dev/images/extruder_0.jpg"/></p>
+<p align="center"><img style="width: 200px" src="https://raw.githubusercontent.com/naschorr/duplicator-i3-duet/dev/images/extruder_1.jpg"/></p>
