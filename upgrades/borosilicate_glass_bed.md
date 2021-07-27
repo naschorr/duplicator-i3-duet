@@ -2,18 +2,22 @@
 
 Upgrades the existing print surface to include a larger, flatter bed that makes the entire print volume available.
 
-## Bill of Materials
-- 1x [235mm² Borosilicate Glass Bed](https://www.amazon.com/gp/product/B07JKGNB6W)
-- 1x [200mm² 1mm Silicone Thermal Pad](https://www.amazon.com/gp/product/B08YJNDLGM)
-- 4x M3 25mm Countersunk Machine Screw
-- 4x [Glass Bed Clips](https://www.amazon.com/gp/product/B08W8NXMJC)
-- 4x M3 Locknuts
+## Required Tools
+| Tool | Link | Notes |
+| ---- | ---- | ----- |
+| Power Drill           |
+| Countersink Drill Bit | [Amazon](https://smile.amazon.com/gp/product/B0002EVG0C)                          | The aluminum of the bed is soft, so you can get a cheaper one if desired
+| Goo Gone              | [Amazon](https://smile.amazon.com/Goo-Gone-Adhesive-Remover-Spray/dp/B00S9YIQMS)  | The spray bottle isn't necessary, but it should make application easier
+| Sharp Metal Spatula   |                                                                                   | The Duplicator i3 should've already come with one
 
-## Tools
-- Drill
-- Countersink Drill Bit
-- Goo Gone
-- Sharp Spatula
+## Bill of Materials
+| Item | Quantity | Link | Notes |
+| ---- | -------- | ---- | ----- |
+| 235mm² Borosilicate Glass Bed     | 1 | [Amazon](https://smile.amazon.com/gp/product/B07JKGNB6W)  |
+| 200mm² 1mm Silicone Thermal Pad   | 1 | [Amazon](https://smile.amazon.com/gp/product/B08YJNDLGM)  |
+| M3 25mm Countersunk Machine Screw | 4 | Amazon
+| M3 Locknuts                       | 4 | Amazon                                                    |
+| Glass Bed Clips                   | 4 | [Amazon](https://smile.amazon.com/gp/product/B08W8NXMJC)  |
 
 ## Assembly
 1. Remove the existing print surface, and if necessary scrape away any adhesive with the Goo Gone and a sharp spatula.
