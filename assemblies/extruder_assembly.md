@@ -3,16 +3,17 @@
 ## Printables
 All of these files should be printed in a thermally resistant filament, like PETG.
 
-| STL | Notes |
-| --- | ----- |
-| duplicator i3 duet extruder body bltouch mount.stl            | This is essentially just a normal Prusa i3 MK2 extruder body, but with a BLTouch mount grafted onto it
-| duplicator i3 duet extruder body 30mm to 40mm fan adapter.stl | This will adapt the 30mm fan attachment point to allow a 40mm fan to be used instead
-| duplicator i3 duet extruder x carriage ptfe clamp top.stl     | 
-| duplicator i3 duet extruder x carriage ptfe clamp bottom.stl  | 
-| duplicator i3 duet extruder idler shaft.stl                   | WIP
-| prusa i3 mk2 extruder cover.stl                               | This is literally just the official part from Prusa, included here for convenience
-| prusa i3 mk2 extruder idler.stl                               | This is literally just the official part from Prusa, included here for convenience
-| prusa i3 mk2 x carriage.stl                                   | This is literally just the official part from Prusa, included here for convenience
+| STL | Quantity | Notes |
+| --- | -------- | ----- |
+| duplicator i3 duet extruder body bltouch mount.stl            | 1 | This is essentially just a normal Prusa i3 MK2 extruder body, but with a BLTouch mount grafted onto it
+| duplicator i3 duet extruder body 30mm to 40mm fan adapter.stl | 1 | This will adapt the 30mm fan attachment point to allow a 40mm fan to be used instead
+| duplicator i3 duet extruder x carriage ptfe clamp top.stl     | 1 | 
+| duplicator i3 duet extruder x carriage ptfe clamp bottom.stl  | 1 | 
+| duplicator i3 duet extruder idler shaft.stl                   | 1 | WIP
+| duplicator i3 duet extruder idler washer.stl                  | 2 | WIP
+| prusa i3 mk2 extruder cover.stl                               | 1 | This is literally just the official part from Prusa, included here for convenience
+| prusa i3 mk2 extruder idler.stl                               | 1 | This is literally just the official part from Prusa, included here for convenience
+| prusa i3 mk2 x carriage.stl                                   | 1 | This is literally just the official part from Prusa, included here for convenience
 
 ## Required Tools
 | Tool | Link | Notes |
@@ -51,7 +52,6 @@ Note that several of the links are to parts assortments, and a single assortment
 | M3 Washers                            | 4         | [Amazon](https://smile.amazon.com/gp/product/B07CG9J4NC)
 | M3 Hex Nuts                           | 4         | Amazon
 | M3 Square Nuts                        | 4         | Amazon
-| M5 Washers                            | 2         | Amazon                                                                                                                        | Honestly, these can be printed, I'll add an STL eventually for this.
 | Zip ties                              | 8+        | [Amazon](https://smile.amazon.com/gp/product/B01M06HTVH)                                                                      | 4 inch zip ties are fine here.
 
 ## Assembly
