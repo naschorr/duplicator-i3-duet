@@ -29,4 +29,4 @@ Note that several of the links are to parts assortments, and a single assortment
 | M4 Washers                            | 4         | [Amazon](https://smile.amazon.com/gp/product/B07CG9J4NC)   
 
 ## Images
-<p align="center"><img src="https://raw.githubusercontent.com/naschorr/duplicator-i3-duet/dev/images/y_carriage_render_0.png"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/naschorr/duplicator-i3-duet/main/images/y_carriage_render_0.png"/></p>

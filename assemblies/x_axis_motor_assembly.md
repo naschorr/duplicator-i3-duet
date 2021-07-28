@@ -24,4 +24,4 @@ Note that several of the links are to parts assortments, and a single assortment
 | M3 Hex Nuts                           | 4         | Amazon                                                                                                
 
 ## Images
-<p align="center"><img src="https://raw.githubusercontent.com/naschorr/duplicator-i3-duet/dev/images/x_motor_render_0.png"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/naschorr/duplicator-i3-duet/main/images/x_motor_render_0.png"/></p>
