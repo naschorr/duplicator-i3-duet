@@ -12,6 +12,8 @@ All STLs only need to be printed once. These should be printed out of a filament
 ## Required Tools
 | Tool | Link | Notes |
 | ---- | ---- | ----- |
+| Power Drill               |
+| 1/8 Twist Drill Bit       | [Amazon](https://smile.amazon.com/s?k=1%2F8+twist+drill)                                              | This is for cleaning up a few 3D printed holes, so low quality is fine
 | Screw Driver Set          | [Amazon](https://smile.amazon.com/Syntus-Precision-Screwdriver-Electronics-Cellphone/dp/B071PB4RPV)   | Must contain a variety of Hex head drivers
 
 ## Bill of Materials
