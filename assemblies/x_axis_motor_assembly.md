@@ -22,3 +22,6 @@ Note that several of the links are to parts assortments, and a single assortment
 | M3 6mm Socket Cap Machine Screws      | 4         | Amazon                                                                                                                        | If you've done the Z brace upgrade, then you likely have enough screws left over from that.
 | M3 Washers                            | 4         | [Amazon](https://smile.amazon.com/gp/product/B07CG9J4NC)                                                                      |
 | M3 Hex Nuts                           | 4         | Amazon                                                                                                
+
+## Images
+<p align="center"><img src="https://raw.githubusercontent.com/naschorr/duplicator-i3-duet/dev/images/x_motor_render_0.png"/></p>

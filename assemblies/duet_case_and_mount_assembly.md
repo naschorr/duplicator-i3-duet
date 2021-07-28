@@ -38,3 +38,7 @@ Note that several of the links are to parts assortments, and a single assortment
 | M3 Hex Nuts                           | 6     | Amazon                                                                                                                        |
 | M3 Square Nuts                        | 12    | Amazon                                                                                                                        |
 | Zip ties                              | 3     | [Amazon](https://smile.amazon.com/gp/product/B01M06HTVH)                                                                      | 4 inch zip ties are fine here.
+
+## Images
+<p align="center"><img src="https://raw.githubusercontent.com/naschorr/duplicator-i3-duet/dev/images/duet_case_render_0.png"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/naschorr/duplicator-i3-duet/dev/images/duet_case_render_1.png"/></p>
