@@ -23,6 +23,9 @@ These are the required components for the upgraded printer, each section goes ov
 | Heat Gun (or a lighter)   | [Amazon](https://smile.amazon.com/s?k=heat+gun)                                                       | This is for heating up heatshrink tubing, so a lighter is totally fine
 | Screw Driver Set          | [Amazon](https://smile.amazon.com/Syntus-Precision-Screwdriver-Electronics-Cellphone/dp/B071PB4RPV)   | Must contain a variety of Hex and Philips head drivers
 
+## Wiring
+<p align="center"><img style="width: 1040px;" src="https://raw.githubusercontent.com/naschorr/duplicator-i3-duet/dev/images/wiring_diagram.png"/></p>
+
 ## Additional Recommended Upgrades & Maintenance
 - [Borosilicate Glass Bed](upgrades/borosilicate_glass_bed.md)
 - [Z Braces](https://www.thingiverse.com/thing:921948)
