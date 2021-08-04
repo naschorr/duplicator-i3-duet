@@ -24,7 +24,7 @@ These are the required components for the upgraded printer, each section goes ov
 | Screw Driver Set          | [Amazon](https://smile.amazon.com/Syntus-Precision-Screwdriver-Electronics-Cellphone/dp/B071PB4RPV)   | Must contain a variety of Hex and Philips head drivers
 
 ## Wiring
-<p align="center"><img style="width: 1040px;" src="https://raw.githubusercontent.com/naschorr/duplicator-i3-duet/dev/images/wiring_diagram.png"/></p>
+<p align="center"><img style="width: 1040px;" src="https://raw.githubusercontent.com/naschorr/duplicator-i3-duet/main/images/wiring_diagram.png"/></p>
 
 ## Additional Recommended Upgrades & Maintenance
 - [Borosilicate Glass Bed](upgrades/borosilicate_glass_bed.md)
