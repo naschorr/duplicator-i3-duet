@@ -26,6 +26,9 @@ These are the required components for the upgraded printer, each section goes ov
 ## Wiring
 <p align="center"><img style="width: 1040px;" src="https://raw.githubusercontent.com/naschorr/duplicator-i3-duet/main/images/wiring_diagram.png"/></p>
 
+## SD Card
+The `*.g` files inside the [sd_card](sd_card/) directory contain the current state of configuration for the printer. Assuming an identical setup, these files can simply overwrite the data on your Duet's `System` directory.
+
 ## Additional Recommended Upgrades & Maintenance
 - [Borosilicate Glass Bed](upgrades/borosilicate_glass_bed.md)
 - [Z Braces](https://www.thingiverse.com/thing:921948)
